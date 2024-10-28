@@ -12,7 +12,7 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
+            ><i class="fa-solid fa-download"></i
           ></a>
         {% endif %}
       </h1>
@@ -58,7 +58,7 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
+            ><i class="fa-solid fa-download"></i
           ></a>
         {% endif %}
       </h1>
@@ -92,16 +92,18 @@ layout: default
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
-                  {% include resume/awards.liquid %}
+                  {% include resume/services.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
                   {% include resume/publications.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
-                {% when 'interests' %}
-                  {% include resume/interests.liquid %}
-                {% when 'certificates' %}
+                {% when 'services' %}
+                  {% include resume/services.liquid %}
+                {% when 'teaching' %}
+                  {% include resume/services.liquid %}
+                {% when 'extra-curricular' %}
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}

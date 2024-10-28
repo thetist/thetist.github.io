@@ -175,6 +175,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-title {
+    margin-left: 1rem;
     color: var(--global-text-color);
   }
 
@@ -383,7 +384,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.2rem;
 
     a {
       i::before {
@@ -491,12 +492,17 @@ footer.sticky-bottom {
 .table-cv-map {
   background-color: transparent;
   border: none;
+  margin-left: 2.5rem;
   color: var(--global-text-color);
 }
 
 .date-column {
   width: 75px;
-  transform: translateX(-15px) translateY(-5px);
+  transform: translateY(-5px);
+  display: flex;
+  flex-direction: column; /* Ensures block elements stack vertically */
+  justify-content: flex-start; /* Aligns elements to the top */
+  align-items: flex-end; /* Aligns elements to the right */
 }
 
 // Repositories

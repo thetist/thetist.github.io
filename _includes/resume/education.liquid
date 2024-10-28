@@ -3,6 +3,24 @@
   {% for content in education %}
     <li class="list-group-item">
       <div class="row">
+        <!-- Content Section (Now on the left) -->
+        <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
+          <h6 class="title font-weight-bold ml-1 ml-md-4">
+            <a href="{{ content.url }}">{{ content.studyType }}</a>
+          </h6>
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area1 }}</h6>
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area2 }}</h6>
+          <ul class="items">
+            {% for item in content.courses %}
+              <li>
+                <span class="item">{{ item }}</span>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+        
+        <!-- Date Section (Now on the right) -->
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
           {% if content.startDate and content.startDate != '' %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
@@ -10,9 +28,14 @@
             {% assign date = startDate | append: ' - ' %}
             {% assign date = date | append: endDate %}
           {% else %}
-            {% assign date = null %}
+            {% if content.endDate and content.endDate != '' %}
+              {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' %}
+              {% assign date = endDate %}
+            {% else %}
+              {% assign date = null %}
+            {% endif %}
           {% endif %}
-          <table class="table-cv">
+          <table>
             <tbody>
               <tr>
                 <td>
@@ -21,32 +44,8 @@
                   {% endif %}
                 </td>
               </tr>
-              {% if content.location %}
-                <tr>
-                  <td>
-                    <p class="location">
-                      <i class="fa-solid fa-location-dot iconlocation"></i>
-                      {{ content.location }}
-                    </p>
-                  </td>
-                </tr>
-              {% endif %}
             </tbody>
           </table>
-        </div>
-        <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-          <h6 class="title font-weight-bold ml-1 ml-md-4">
-            <a href="{{ content.url }}">{{ content.studyType }}</a>
-          </h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
-          <ul class="items">
-            {% for item in content.courses %}
-              <li>
-                <span class="item">{{ item }}</span>
-              </li>
-            {% endfor %}
-          </ul>
         </div>
       </div>
     </li>
