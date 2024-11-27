@@ -19,8 +19,8 @@ Hello 👋
 
 I’m an undergraduate student at Seoul National University with a deep passion for machine learning and deep learning.
 
-My primary research interests include multimodal AI, generative search, privacy-preserving machine learning, and homomorphic encryption.
+My primary research focus lies in the intersection of **machine learning**, **applied cryptography**, and **computational neuroscience**.
 
-My ultimate goal is to develop an egocentric database that captures the I/O data of individuals, aiming to closely replicate each person.
+I am deeply interested in developing a secure cloud memory system that functions like the human hippocampus, aiming to closely replicate each person.
 
 I’m always happy to connect with others who share these interests, so please feel free to reach out!
