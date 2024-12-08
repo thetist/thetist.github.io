@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there 👋 I'm Alan.
 
-I’m an undergraduate student at Seoul National University focused on practical and high-impact research.
+I’m an undergraduate student in Computer Science and Engineering at Seoul National University dedicated to practical and high-impact research.
 
 My primary research focus lies in the intersection of **machine learning**, **applied cryptography**, and **computational neuroscience**.
 
