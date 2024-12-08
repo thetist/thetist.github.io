@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-## About Me
+### About Me
 
 Hello 👋
 
@@ -23,9 +23,11 @@ I am currently an undergraduate student at Seoul National University.
 
 My primary research focus lies in the intersection of **machine learning**, **applied cryptography**, and **computational neuroscience**.
 
-I am deeply interested in developing a secure cloud memory system inspired by the human hippocampus—one that continuously gathers, stores, and utilizes an individual’s complete lifetime of egocentric data. Through this work, I aim not only to augment human memory, but also, over time, to capture and reflect the fundamental aspects of human identity.
+I am deeply interested in developing a secure cloud memory system inspired by the human hippocampus—one that continuously gathers, stores, and utilizes an individual’s complete lifetime of egocentric data.
 
-## Research Interests
+Through this work, I aim not only to augment human memory, but also, over time, to capture and reflect the fundamental aspects of human identity.
+
+### Research Interests
 
 **Machine Learning**  
 (1) Efficient and Scalable Semantic Search  
