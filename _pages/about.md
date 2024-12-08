@@ -15,8 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### About Me
-
 Hello 👋
 
 I am currently an undergraduate student at Seoul National University.
@@ -27,18 +25,18 @@ I am deeply interested in developing a secure cloud memory system inspired by th
 
 Through this work, I aim not only to augment human memory, but also, over time, to capture and reflect the fundamental aspects of human identity.
 
-### Research Interests
+More specifically, my research interests include:
 
-**Machine Learning**  
-(1) Efficient and Scalable Semantic Search  
-(2) Instruction-Conditioned Imitation Learning
+1. **Machine Learning**  
+(a) Efficient and Scalable Semantic Search  
+(b) Instruction-Conditioned Imitation Learning
 
-**Applied Cryptography**  
-(1) Homomorphic Encryption (HE)  
-(2) Private Information Retrieval (PIR)
+2. **Applied Cryptography**  
+(a) Homomorphic Encryption (HE)  
+(b) Private Information Retrieval (PIR)
 
-**Computational Neuroscience**  
-(1) Principles of How the Hippocampus Stores and Recalls Memories  
-(2) Principles of Learning in the Biological Brain
+3. **Computational Neuroscience**  
+(a) Principles of How the Hippocampus Stores and Recalls Memories  
+(b) Principles of Learning in the Biological Brain
 
 If you share these interests or would like to explore potential collaborations, please feel free to reach out!
