@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there 👋 I'm Alan.
 
-I am currently an undergraduate student at Seoul National University.
+I’m an undergraduate student at Seoul National University focused on practical and high-impact research.
 
 My primary research focus lies in the intersection of **machine learning**, **applied cryptography**, and **computational neuroscience**.
 
@@ -25,7 +25,7 @@ I am deeply interested in developing a secure cloud memory system inspired by th
 
 Through this work, I aim not only to augment human memory, but also, over time, to capture and reflect the fundamental aspects of human identity.
 
-More specifically, my research interests include:
+More specifically, ㅁmy research interests include:
 
 1. **Machine Learning**  
 (a) Efficient and Scalable Semantic Search  
