@@ -25,10 +25,10 @@ I am deeply interested in developing a secure cloud memory system inspired by th
 
 Through this work, I aim not only to augment human memory, but also, over time, to capture and reflect the fundamental aspects of human identity.
 
-More specifically, ㅁmy research interests include:
+More specifically, my research interests include:
 
 1. **Machine Learning**  
-(a) Encrypted Search  
+(a) Encrypted Semantic Search  
 (b) Encrypted Fine-Tuning
 
 2. **Applied Cryptography**  
@@ -37,6 +37,6 @@ More specifically, ㅁmy research interests include:
 
 3. **Computational Neuroscience**  
 (a) Principles of How the Hippocampus Stores and Recalls Memories  
-(b) Principles of Learning in the Biological Brain
+(b) Principles of How the Brain Learns and Generalizes Knowledge
 
 If you share these interests or would like to explore potential collaborations, please feel free to reach out!
