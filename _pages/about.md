@@ -28,8 +28,8 @@ Through this work, I aim not only to augment human memory, but also, over time, 
 More specifically, ㅁmy research interests include:
 
 1. **Machine Learning**  
-(a) Efficient and Scalable Semantic Search  
-(b) Instruction-Conditioned Imitation Learning
+(a) Encrypted Search  
+(b) Encrypted Fine-Tuning
 
 2. **Applied Cryptography**  
 (a) Homomorphic Encryption (HE)  
