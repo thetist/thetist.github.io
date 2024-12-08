@@ -32,8 +32,8 @@ More specifically, my research interests include:
 (b) Encrypted Fine-Tuning
 
 2. **Applied Cryptography**  
-(a) Homomorphic Encryption (HE)  
-(b) Private Information Retrieval (PIR)
+(a) Homomorphic Encryption  
+(b) Private Information Retrieval
 
 3. **Computational Neuroscience**  
 (a) Principles of How the Hippocampus Stores and Recalls Memories  
