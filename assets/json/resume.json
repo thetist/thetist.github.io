@@ -14,17 +14,17 @@
   ],
   "publications": [
     {
+      "name": "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction",
+      "publisher": "ICRA 2025",
+      "releaseDate": "2024-10-02",
+      "url": "https://arxiv.org/abs/2410.01273",
+      "summary": "Co-first author"
+    },
+    {
       "name": "ESREAL: Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models",
       "publisher": "ECCV 2024",
       "releaseDate": "2024-03-24",
       "url": "https://arxiv.org/abs/2403.16167",
-      "summary": "Co-first author"
-    },
-    {
-      "name": "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction",
-      "publisher": "NeurIPS 2024 Workshop OWA (Outstanding Paper Award)",
-      "releaseDate": "2024-10-02",
-      "url": "https://arxiv.org/abs/2410.01273",
       "summary": "Co-first author"
     },
     {
