@@ -14,6 +14,13 @@
   ],
   "publications": [
     {
+      "name": "Secure-RAG: Secure Retrieval-Augmented Generation with an Encrypted Vector Database",
+      "publisher": "Under Review",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Co-first author"
+    },
+    {
       "name": "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction",
       "publisher": "ICRA 2025",
       "releaseDate": "2024-10-02",

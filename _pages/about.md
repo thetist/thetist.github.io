@@ -17,18 +17,18 @@ social: true # includes social icons at the bottom of the page
 
 Hi there 👋 I'm Alan.
 
-I am an undergraduate student majoring in Computer Science at Seoul National University, passionate about practical and high-impact research.
+I'm an undergraduate student studying Computer Science at Seoul National University, interested in practical and impactful research.
 
 My primary research focus lies in the intersection of **machine learning**, **applied cryptography**, and **computational neuroscience**.
 
-I am deeply interested in developing a secure cloud memory system inspired by the human hippocampus—one that continuously gathers, stores, and utilizes an individual’s entire lifetime of egocentric data.
+I'm deeply interested in developing a secure cloud memory system inspired by the human hippocampus—one that continuously collects, stores, and utilizes an individual’s lifetime of egocentric data.
 
-Through this work, I aim to create an AI replica that shares your memories and acts with your intent. To achieve this, the system must (i) securely share your memories, (ii) think, speak, and act like you, and (iii) synchronize with you seamlessly and actively.
+Through this work, I aim to create an AI replica that shares your memories and acts with your intent. To achieve this, the system must (i) securely store share your memories, (ii) think, speak, and act like you, and (iii) synchronize with you seamlessly and actively.
 
 More specifically, my research interests include:
 
 1. **Machine Learning**  
-(a) Secure RAG Framework    
+(a) Secure Retrieval-Augmented Generation  
 (b) Secure Semantic Search  
 (c) Secure Imitation Learning
 
