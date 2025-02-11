@@ -28,7 +28,7 @@ Through this work, I aim to create an AI replica that shares your memories and a
 More specifically, my research interests include:
 
 1. **Machine Learning**  
-(a) Secure Retrieval-Augmented Generation  
+(a) Secure RAG
 (b) Secure Semantic Search  
 (c) Secure Imitation Learning
 
