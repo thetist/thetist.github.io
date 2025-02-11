@@ -23,7 +23,7 @@ My primary research focus lies in the intersection of **machine learning**, **ap
 
 I'm deeply interested in developing a secure cloud memory system inspired by the human hippocampus—one that continuously collects, stores, and utilizes an individual’s lifetime of egocentric data.
 
-Through this work, I aim to create an AI replica that shares your memories and acts with your intent. To achieve this, the system must (i) securely store share your memories, (ii) think, speak, and act like you, and (iii) synchronize with you seamlessly and actively.
+Through this work, I aim to create an AI replica that shares your memories and acts with your intent. To achieve this, the system must (i) securely store and share your memories, (ii) think, speak, and act like you, and (iii) synchronize with you seamlessly and actively.
 
 More specifically, my research interests include:
 
