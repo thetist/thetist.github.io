@@ -15,30 +15,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there 👋 I'm Alan.
+<span style="color:red; font-weight:bold;">"I’m looking for Ph.D. positions for Fall 2026."</span>
 
-I'm an undergraduate student studying Computer Science at Seoul National University, interested in practical and impactful research.
+Hi there, I'm **Minchan Kim** 👋
 
-My primary research focus lies in the intersection of **machine learning**, **applied cryptography**, and **computational neuroscience**.
+I'm an undergraduate at [Seoul National University](https://en.snu.ac.kr/), majoring in Computer Science. I'm currently working in [SNU Vision & Learning Lab](https://vision.snu.ac.kr/), advised by [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/). I previously collaborated on research projects with [Prof. Yejin Choi](https://yejinc.github.io/) at [Stanford University](https://www.stanford.edu/) and [Prof. Niloofar Mireshghallah](https://mireshghallah.github.io/), [Prof. Akari Asai](https://akariasai.github.io/), and [Prof. Graham Neubig](https://www.phontron.com/) at [CMU](https://www.cmu.edu/).
 
-I'm deeply interested in developing a secure cloud memory system inspired by the human hippocampus—one that continuously collects, stores, and utilizes an individual’s lifetime of egocentric data.
+My research focus lies in the intersection of machine learning, databases, and cryptography: **machine learning** (privacy-preserving machine learning, long-term memory systems, generalist imitation agents), **databases** (vector databases, approximate nearest neighbor, multimodal data compression), **cryptography** (homomorphic encryption, multi-party computation, private information retrieval)
 
-Through this work, I aim to create an AI replica that shares your memories and acts with your intent. To achieve this, the system must (i) securely store and share your memories, (ii) think, speak, and act like you, and (iii) synchronize with you seamlessly and actively.
-
-More specifically, my research interests include:
-
-1. **Machine Learning**  
-(a) Secure RAG  
-(b) Secure Semantic Search  
-(c) Secure Imitation Learning
-
-2. **Applied Cryptography**  
-(a) Homomorphic Encryption  
-(b) Multi-Party Computation  
-(c) Private Information Retrieval
-
-3. **Computational Neuroscience**  
-(a) Principles of How the Hippocampus Stores and Recalls Memories  
-(b) Principles of How the Brain Learns and Generalizes Knowledge
+My vision is to develop a **secure long-term memory system** inspired by the human hippocampus—one that continuously collects, stores, and utilizes an individual’s lifetime of action data. Through this work, I aim to create an **AI version of yourself** that shares your memories and acts on your intent. To achieve this, the system must (i) seamlessly capture everything you see and hear, (ii) securely store your memories, and (iii) think, speak, and act like you.
 
 If you share these interests or would like to explore potential collaborations, please feel free to reach out!
