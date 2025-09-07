@@ -23,6 +23,6 @@ I'm an undergraduate at [Seoul National University](https://en.snu.ac.kr/), majo
 
 My research focus lies in the intersection of machine learning, databases, and cryptography: **machine learning** (privacy-preserving machine learning, long-term memory systems, generalist imitation agents), **databases** (vector databases, approximate nearest neighbor, multimodal data compression), **cryptography** (homomorphic encryption, multi-party computation, private information retrieval)
 
-My vision is to develop a **secure long-term memory system** inspired by the human hippocampus—one that continuously collects, stores, and utilizes an individual’s lifetime of action data. Through this work, I aim to create an **AI version of yourself** that shares your memories and acts on your intent. To achieve this, the system must (i) seamlessly capture everything you see and hear, (ii) securely store your memories, and (iii) think, speak, and act like you.
+My vision is to develop a **secure long-term memory system** inspired by the human hippocampus—one that continuously collects, stores, and utilizes an individual’s lifetime of action data. Through this work, I aim to create an **generalist imitation agent** that shares your memories and acts on your intent. To achieve this, the system must (i) seamlessly capture everything you see and hear, (ii) securely store your memories, and (iii) think, speak, and act like you.
 
 If you share these interests or would like to explore potential collaborations, please feel free to reach out!
