@@ -17,9 +17,9 @@ social: true # includes social icons at the bottom of the page
 
 <span style="color:red; font-weight:bold;">"I’m looking for Ph.D. positions for Fall 2026."</span>
 
-Hi there, I'm **Minchan Kim** 👋
+Hi there, I'm **Minchan** 👋
 
-I'm an undergraduate at [Seoul National University](https://en.snu.ac.kr/), majoring in Computer Science. I'm currently working in [SNU Vision & Learning Lab](https://vision.snu.ac.kr/), advised by [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/). I previously collaborated on research projects with [Prof. Yejin Choi](https://yejinc.github.io/) at [Stanford University](https://www.stanford.edu/) and [Prof. Niloofar Mireshghallah](https://mireshghallah.github.io/), [Prof. Akari Asai](https://akariasai.github.io/), and [Prof. Graham Neubig](https://www.phontron.com/) at [CMU](https://www.cmu.edu/).
+I'm an undergraduate at [Seoul National University](https://en.snu.ac.kr/), majoring in Computer Science. I'm currently working in [SNU Vision & Learning Lab](https://vision.snu.ac.kr/), advised by [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/). I’ve also had the opportunity to collaborate on research projects with [Prof. Yejin Choi](https://yejinc.github.io/) at [Stanford](https://www.stanford.edu/) and [Prof. Niloofar Mireshghallah](https://mireshghallah.github.io/), [Prof. Akari Asai](https://akariasai.github.io/), and [Prof. Graham Neubig](https://www.phontron.com/) at [CMU](https://www.cmu.edu/).
 
 My research focus lies in the intersection of machine learning, databases, and cryptography: **machine learning** (privacy-preserving machine learning, long-term memory systems, generalist imitation agents), **databases** (vector databases, approximate nearest neighbor, multimodal data compression), **cryptography** (homomorphic encryption, multi-party computation, private information retrieval)
 
