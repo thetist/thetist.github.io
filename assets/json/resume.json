@@ -15,20 +15,6 @@
   ],
   "publications": [
     {
-      "name": "Generalist-IDM: Building a Large-Scale Desktop Action Corpus via Generalist Inverse Dynamics Models",
-      "publisher": "Under Review",
-      "releaseDate": "Coming Soon",
-      "url": "",
-      "summary": "4th Author"
-    },
-    {
-      "name": "MIP-Bench: Can LLMs Personalize Answers for Different Users by Implicitly Leveraging Long-Term Memory?",
-      "publisher": "Under Review",
-      "releaseDate": "Coming Soon",
-      "url": "",
-      "summary": "Co-first Author"
-    },
-    {
       "name": "PPMI: Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases",
       "publisher": "Under Review, Crypto 2025 Workshop",
       "releaseDate": "2025-06-19",
